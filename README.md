@@ -1,5 +1,7 @@
 # Stock Price Prediction - Google
 
+![Stock Price Prediction](https://github.com/AkshayAdapa/Stock-Price-Prediction-Google/blob/main/Stock%20price%20prediction%20image.png)
+
 ## Overview
 This project aims to predict Google stock prices using time series analysis and machine learning techniques. The dataset includes various details such as opening price, closing price, and trading volume of Google stocks.
 
